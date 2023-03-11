@@ -1,4 +1,3 @@
-TOKEN = '5765844901:AAG9BK373vgdMa5sW53MIxFRUrY6q7veU-Q'
 callback_words = {'Monday': 'Понедельник', 'Tuesday': 'Вторник', 'Wednesday': 'Среда', 'Thursday': 'Четверг',
                   'Friday': 'Пятница', 'Back': 'Назад'}
 FULL_TIME = '9:00 - 18:30,'
